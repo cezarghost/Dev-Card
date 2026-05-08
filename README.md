@@ -7,4 +7,3 @@ DevCard
 ![tela 3](image-2.png) Tela Cartão
 
 ![tela 4](image-3.png) Tela Final
-"# Dev-Card" 
